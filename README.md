@@ -4,12 +4,9 @@
 
 It's nice to meet you. 
 
-If you have any questions or wana get dunkin some time, feel free to email me at benvaccaro@proton.me
+If you have any questions or wana get chat some time, feel free to email me at benvaccaro@proton.me
 
-- 🔭 I’m currently working on ...
-   Python, Linux, Bash
-- 🌱 I’m currently learning ...
-   HTMl, CSS, German
+
 
 
 <h3 align="left">Languages and Tools:</h3>
