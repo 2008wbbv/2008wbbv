@@ -1,13 +1,37 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ben-vaccaro&label=Profile%20views&color=0e75b6&style=flat" alt="ben-vaccaro" /> </p>
 
-👋Hey there,
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bnvac/)
+[![Website](https://img.shields.io/badge/bnvac.com-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://bnvac.com)
+![Profile views](https://komarev.com/ghpvc/?username=2008wbbv&style=for-the-badge&color=0e75b6)
 
-It's nice to meet you. 
+## Ben Vaccaro
 
-If you have any questions or wana get chat some time, feel free to email me at benvaccaro@proton.me
+Self-taught hardware + software. I live at the seam where firmware meets a
+PCB meets a research question nobody assigned me. Small school, no CS program,
+so I taught myself the stack and how to ship.
 
+```text
+building   → embedded systems, PCB design, open-source tooling
+researching→ AlphaFold2 prediction accuracy (viral vs. human proteins)
+current    → tzo, stdnt.xyz, Uplink
+rule       → build > talk about building
+```
 
+### Shipped
+- **[tzo](https://github.com/2008wbbv/tzo)** — Rust terminal-session collector, fail-closed anonymized training data
+- **[stdnt.xyz](https://github.com/2008wbbv/edu.edu)** — open-source hub of free tools, scholarships & STEM programs
+- **Uplink** — open-source, 3D-printable CubeSat platform ($150 base build)
 
+### Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=2008wbbv&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2008wbbv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
+
+![snake](https://raw.githubusercontent.com/2008wbbv/2008wbbv/output/github-contribution-grid-snake-dark.svg)
